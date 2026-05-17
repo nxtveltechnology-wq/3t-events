@@ -1,0 +1,396 @@
+{
+  "hero": {
+    "banners": [
+      "/banner/1779023620593 (1).png",
+      "/banner/1779023774236.png",
+      "/banner/1779023849476.png",
+      "/banner/1779023940726.png"
+    ]
+  },
+  "reels": {
+    "urls": [
+      "https://www.instagram.com/reel/DYAoBfrk3zi/",
+      "https://www.instagram.com/reel/DYAnrIik1Kq/",
+      "https://www.instagram.com/reel/DYaXUmLzKYd/",
+      "https://www.instagram.com/reel/DXRBLurE7KU/",
+      "https://www.instagram.com/reel/DXoZOtIE2Hv/",
+      "https://www.instagram.com/reel/DXXXQmmk4Vt/"
+    ]
+  },
+  "process": {
+    "steps": [
+      {
+        "n": "01",
+        "iconName": "Phone",
+        "t": "Discovery Call",
+        "d": "We listen deeply — to your vision, your love story, your family's dreams. Every detail matters before a single pin is placed.",
+        "accent": "from-[#0f2d52] to-[#1a3e6e]"
+      },
+      {
+        "n": "02",
+        "iconName": "LayoutTemplate",
+        "t": "Creative Blueprint",
+        "d": "A bespoke creative direction is born — mood-boarded down to the ribbon. Color, texture, fragrance, flow.",
+        "accent": "from-[#12305a] to-[#1e4475]"
+      },
+      {
+        "n": "03",
+        "iconName": "MapPin",
+        "t": "Venue & Stage",
+        "d": "From Udaipur palaces to Lake Como villas, Mumbai ballrooms to Bali clifftops — we find your perfect forever stage.",
+        "accent": "from-[#0f2d52] to-[#1a3e6e]"
+      },
+      {
+        "n": "04",
+        "iconName": "Sparkles",
+        "t": "Decor & Design",
+        "d": "Florals, light, fabric, fragrance — sculpted by our artisan team into a living, breathing dreamscape.",
+        "accent": "from-[#12305a] to-[#1e4475]"
+      },
+      {
+        "n": "05",
+        "iconName": "Users",
+        "t": "Vendor Symphony",
+        "d": "An invisible orchestra of the world's finest photographers, chefs, artists, and performers — all conducted by us.",
+        "accent": "from-[#0f2d52] to-[#1a3e6e]"
+      },
+      {
+        "n": "06",
+        "iconName": "Crown",
+        "t": "Your Grand Day",
+        "d": "You arrive. We hold every thread. You only have to feel every single magical moment we've crafted just for you.",
+        "accent": "from-[#12305a] to-[#1e4475]"
+      }
+    ]
+  },
+  "faq": {
+    "faqs": [
+      {
+        "q": "How far in advance should we book your services?",
+        "a": "For weddings and large-scale destination events, we recommend securing our team 8 to 12 months in advance to ensure availability and ample planning time. For smaller private celebrations, 3 to 6 months is typically sufficient."
+      },
+      {
+        "q": "Do you plan destination weddings internationally?",
+        "a": "Absolutely. Our expertise extends across borders. We have orchestrated seamless, luxurious events across Europe, the Middle East, and Southeast Asia, managing everything from legal logistics to guest hospitality."
+      },
+      {
+        "q": "Are you involved in the design or just coordination?",
+        "a": "We provide comprehensive, end-to-end event production. This means we are heavily involved in the creative design, spatial planning, floral architecture, and entertainment curation, as well as the meticulous logistical coordination."
+      },
+      {
+        "q": "Do you offer partial planning or day-of coordination?",
+        "a": "To maintain the uncompromising standard of our events, we exclusively accept full-service planning commissions. This ensures every detail aligns perfectly with our cinematic, high-end vision."
+      },
+      {
+        "q": "How is your pricing structured?",
+        "a": "Our pricing is bespoke, tailored entirely to the scale, location, and complexity of your event. Following our initial consultation, we provide a customized proposal outlining our management fee and estimated production costs."
+      }
+    ]
+  },
+  "testimonials": {
+    "list": [
+      {
+        "quote": "Velvet didn't just plan a wedding — they bottled the way our grandparents fell in love and gave it back to us, in flowers.",
+        "couple": "Aaradhya & Vivaan",
+        "place": "Udaipur · 2025"
+      },
+      {
+        "quote": "Three days. Four ceremonies. Two countries. Not a single guest noticed anything but joy. That is artistry.",
+        "couple": "Sienna & Karan",
+        "place": "Lake Como · 2024"
+      },
+      {
+        "quote": "I cried walking into the mandap. It was the dream I never knew how to describe — they did, perfectly.",
+        "couple": "Meher & Aryan",
+        "place": "Jaipur · 2024"
+      }
+    ]
+  },
+  "whyUs": {
+    "values": [
+      {
+        "iconName": "HeartHandshake",
+        "title": "Personal Attention",
+        "desc": "Every client gets a dedicated lead planner. You are never handed to a junior. We know your story like our own.",
+        "num": "01"
+      },
+      {
+        "iconName": "Gem",
+        "title": "Obsessive Detail",
+        "desc": "From the ribbon knot on your invitation to the scent in the air — every micro-decision is made with intention.",
+        "num": "02"
+      },
+      {
+        "iconName": "Globe2",
+        "title": "Global Reach",
+        "desc": "We operate seamlessly across 32+ destinations — palaces, resorts, clifftops, vineyards — with local precision.",
+        "num": "03"
+      },
+      {
+        "iconName": "ShieldCheck",
+        "title": "Transparent Pricing",
+        "desc": "No hidden surprises. Our pricing is honest, structured, and designed around your vision — not the other way.",
+        "num": "04"
+      },
+      {
+        "iconName": "Clock",
+        "title": "Always On Time",
+        "desc": "In a decade, not a single event has started late. Logistics are our silent superpower.",
+        "num": "05"
+      },
+      {
+        "iconName": "Award",
+        "title": "Award-Winning Team",
+        "desc": "Recognised across the industry — but our greatest award is watching you stand breathless at what we've created.",
+        "num": "06"
+      }
+    ]
+  },
+  "gallery": {
+    "items": [
+      { "imageName": "g1.jpg", "cat": "Destination", "h": "tall" },
+      { "imageName": "g2.jpg", "cat": "Haldi", "h": "short" },
+      { "imageName": "g3.jpg", "cat": "Reception", "h": "short" },
+      { "imageName": "g4.jpg", "cat": "Sangeet", "h": "tall" },
+      { "imageName": "about.jpg", "cat": "Decor", "h": "short" },
+      { "imageName": "hero.jpg", "cat": "Destination", "h": "tall" }
+    ],
+    "categories": [
+      "All",
+      "Haldi",
+      "Mehendi",
+      "Sangeet",
+      "Reception",
+      "Destination"
+    ]
+  },
+  "services": {
+    "list": [
+      {
+        "title": "Destination Wedding Planners",
+        "imageName": "service_destination.png"
+      },
+      { "title": "Venue Selection", "imageName": "service_venue.png" },
+      {
+        "title": "Hospitality & Logistic",
+        "imageName": "service_hospitality.png"
+      },
+      { "title": "Designing Decor", "imageName": "service_decor.png" },
+      { "title": "Food & Beverages", "imageName": "service_catering.png" },
+      { "title": "Entertainment", "imageName": "service_entertainment.png" },
+      { "title": "Conceptual Entries", "imageName": "service_entries.png" },
+      { "title": "Make Up Artist", "imageName": "service_makeup.png" },
+      {
+        "title": "Wedding Choreography",
+        "imageName": "service_choreography.png"
+      },
+      { "title": "Photography", "imageName": "service_photography.png" },
+      { "title": "Trousseau Gifting", "imageName": "service_gifting.png" },
+      { "title": "Wedding Stationary", "imageName": "service_stationery.png" },
+      { "title": "Shopping Assistance", "imageName": "service_shopping.png" }
+    ]
+  },
+  "events": {
+    "list": [
+      {
+        "id": "weddings",
+        "iconName": "Heart",
+        "label": "Our Heritage",
+        "title": "Weddings",
+        "desc": "Our heart and heritage. From intimate vows to grand royal celebrations — every love story deserves its perfect day, crafted with cinematic restraint, editorial taste, and an obsession with detail.",
+        "tags": [
+          "Hindu Ceremonies",
+          "Christian Weddings",
+          "Destination Weddings",
+          "Royal Affairs",
+          "Intimate Vows"
+        ],
+        "bgImageName": "/banner/1779023940726.png",
+        "contentSections": [
+          {
+            "title": "The Vision",
+            "text": "We believe a wedding is not just an event, but a living, breathing expression of your love story. Our approach is entirely bespoke, ensuring that every floral arrangement, every draping, and every culinary choice reflects your unique personality and heritage."
+          },
+          {
+            "title": "The Experience",
+            "text": "From the initial consultation to the final send-off, our team of dedicated planners and designers orchestrate every detail with surgical precision. We handle the complexities of vendor management, logistics, and scheduling so you can immerse yourself fully in the joy of your celebration."
+          }
+        ],
+        "galleryImageNames": [
+          "g2.jpg",
+          "service_destination.png",
+          "service_venue.png",
+          "service_decor.png"
+        ],
+        "instagramUrls": [
+          "https://www.instagram.com/p/DB11O4hN1gG/",
+          "https://www.instagram.com/p/DAWn5yYvQ9i/",
+          "https://www.instagram.com/p/C_q8L81N6W5/"
+        ]
+      },
+      {
+        "id": "corporate",
+        "iconName": "Briefcase",
+        "label": "Professional",
+        "title": "Corporate Events",
+        "desc": "Award ceremonies, product launches, conferences and galas with world-class production. We bring editorial flair and flawless execution to the grandest professional stages.",
+        "tags": ["Launches", "Conferences", "Award Nights", "Summits"],
+        "bgImageName": "event_corporate_indian.png",
+        "contentSections": [
+          {
+            "title": "Brand Elevation",
+            "text": "Your corporate event is a direct reflection of your brand's prestige. We design immersive environments that communicate your corporate identity while ensuring a seamless, high-end experience for your guests, stakeholders, and partners."
+          },
+          {
+            "title": "Flawless Execution",
+            "text": "With our extensive experience in large-scale productions, we manage every technical and logistical aspect, from stage design and audiovisual production to premium hospitality, ensuring your event runs flawlessly from start to finish."
+          }
+        ],
+        "galleryImageNames": [
+          "event_corporate_indian.png",
+          "service_hospitality.png",
+          "service_entertainment.png",
+          "service_photography.png"
+        ],
+        "instagramUrls": [
+          "https://www.instagram.com/p/C9Hh9eQNiL9/",
+          "https://www.instagram.com/p/C8m1uG-N6V2/",
+          "https://www.instagram.com/p/C6q1jHvtQz_/"
+        ]
+      },
+      {
+        "id": "birthday",
+        "iconName": "PartyPopper",
+        "label": "Milestones",
+        "title": "Birthday Celebrations",
+        "desc": "Milestone birthdays transformed into grand, unforgettable experiences. From elaborate themed parties to sophisticated elegant dinners, we orchestrate pure joy.",
+        "tags": ["Milestone", "Themed Parties", "Surprise Parties", "Sweet 16"],
+        "bgImageName": "event_birthday_indian.png",
+        "contentSections": [
+          {
+            "title": "Personalized Themes",
+            "text": "Every milestone deserves to be celebrated in a way that is uniquely yours. We conceptualize and execute highly personalized themes, transforming ordinary spaces into extraordinary worlds that captivate your guests."
+          },
+          {
+            "title": "Curated Entertainment",
+            "text": "Beyond stunning visuals, we curate bespoke entertainment, conceptual entries, and gourmet food and beverage experiences to ensure your celebration is not just seen, but deeply felt and remembered."
+          }
+        ],
+        "galleryImageNames": [
+          "event_birthday_indian.png",
+          "service_catering.png",
+          "service_entries.png",
+          "service_makeup.png"
+        ],
+        "instagramUrls": [
+          "https://www.instagram.com/p/C5v1jHvtQz_/",
+          "https://www.instagram.com/p/C4u1jHvtQz_/",
+          "https://www.instagram.com/p/C3t1jHvtQz_/"
+        ]
+      },
+      {
+        "id": "gala",
+        "iconName": "Star",
+        "label": "High Society",
+        "title": "Private Galas",
+        "desc": "Exclusive dinner galas, charity balls and high-society soirées. We design opulent environments with impeccable table settings, crystal chandeliers, and cinematic lighting.",
+        "tags": ["Black Tie", "Charity Balls", "Fundraisers", "Soirées"],
+        "bgImageName": "event_gala_indian.png",
+        "contentSections": [
+          {
+            "title": "Opulent Environments",
+            "text": "We specialize in creating environments of unparalleled opulence. From custom-built architectural elements to lush, cascading floral installations, we design spaces that leave a lasting impression on high-society guests."
+          },
+          {
+            "title": "Impeccable Service",
+            "text": "A gala is defined by its service. We provide world-class hospitality, ensuring that every guest receives personalized, white-glove attention throughout the evening."
+          }
+        ],
+        "galleryImageNames": [
+          "event_gala_indian.png",
+          "service_decor.png",
+          "service_hospitality.png",
+          "service_photography.png"
+        ],
+        "instagramUrls": [
+          "https://www.instagram.com/p/C2s1jHvtQz_/",
+          "https://www.instagram.com/p/C1r1jHvtQz_/",
+          "https://www.instagram.com/p/C0q1jHvtQz_/"
+        ]
+      },
+      {
+        "id": "destination",
+        "iconName": "Globe",
+        "label": "Global Reach",
+        "title": "Destination Events",
+        "desc": "Palaces, beaches, vineyards — we bring your vision wherever it takes us. We handle end-to-end logistics, travel, and production across 32+ international destinations.",
+        "tags": ["International", "Resorts", "Heritage Palaces", "Vineyards"],
+        "bgImageName": "event_destination_indian.png",
+        "contentSections": [
+          {
+            "title": "Global Expertise",
+            "text": "Our global reach allows us to execute events in some of the world's most exclusive and sought-after locations. From majestic heritage palaces in Rajasthan to pristine beaches in the Maldives, your vision knows no borders."
+          },
+          {
+            "title": "End-to-End Logistics",
+            "text": "We manage every aspect of your destination event, including guest travel, accommodation, visa assistance, and international vendor coordination, providing a completely stress-free experience."
+          }
+        ],
+        "galleryImageNames": [
+          "event_destination_indian.png",
+          "service_destination.png",
+          "service_venue.png",
+          "service_hospitality.png"
+        ],
+        "instagramUrls": [
+          "https://www.instagram.com/p/Czq1jHvtQz_/",
+          "https://www.instagram.com/p/Cyq1jHvtQz_/",
+          "https://www.instagram.com/p/Cxq1jHvtQz_/"
+        ]
+      },
+      {
+        "id": "private",
+        "iconName": "Cake",
+        "label": "Intimate",
+        "title": "Private Celebrations",
+        "desc": "Anniversaries, engagements, baby showers — intimate elegance crafted with the same obsessive detail and uncompromising luxury as our grandest affairs.",
+        "tags": [
+          "Anniversaries",
+          "Engagements",
+          "Baby Showers",
+          "Intimate Dinners"
+        ],
+        "bgImageName": "event_private.png",
+        "contentSections": [
+          {
+            "title": "Intimate Elegance",
+            "text": "We believe that intimacy does not mean compromising on luxury. Our private celebrations are crafted with an extraordinary level of detail, creating a warm, inviting, and highly sophisticated atmosphere for your closest family and friends."
+          },
+          {
+            "title": "Bespoke Details",
+            "text": "From personalized trousseau gifting and custom stationery to exquisite private dining experiences, every element is thoughtfully curated to reflect the significance of your special occasion."
+          }
+        ],
+        "galleryImageNames": [
+          "event_private.png",
+          "service_gifting.png",
+          "service_stationery.png",
+          "service_shopping.png"
+        ],
+        "instagramUrls": [
+          "https://www.instagram.com/p/Cwq1jHvtQz_/",
+          "https://www.instagram.com/p/Cvq1jHvtQz_/",
+          "https://www.instagram.com/p/Cuq1jHvtQz_/"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Turning Dreams into Unforgettable Events!",
+    "description": "A premier event management company — crafting cinematic love stories, destination weddings & luxury celebrations across India.",
+    "locations": "Mumbai · Delhi · Udaipur",
+    "email": "hello@3tevents.com",
+    "phone": "+91 99999 99999",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d241317.11609949182!2d72.74109995!3d19.08219865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c6306644edc1%3A0x5da4ed8f8d648c69!2sMumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1716000000000!5m2!1sen!2sin"
+  }
+}
